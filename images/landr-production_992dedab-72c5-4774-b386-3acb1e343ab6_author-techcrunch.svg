@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>author-techcrunch</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="author-techcrunch" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="base" fill-opacity="0" fill="#0C1B2B" cx="28" cy="28" r="28"></circle>
+        <g id="TechCrunch_logo" transform="translate(4.000000, 16.000000)" fill="#F9FAFB" fill-rule="nonzero">
+            <polygon id="Shape" points="24 0 24 8 16 8 16 24 8 24 8 8 0 8 0 0"></polygon>
+            <rect id="Rectangle-path" x="32" y="0" width="16" height="8"></rect>
+            <polygon id="Shape" points="48 16 48 24 24 24 24 8 32 8 32 16"></polygon>
+        </g>
+    </g>
+</svg>
